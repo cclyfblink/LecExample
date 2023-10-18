@@ -1,0 +1,12 @@
+Package: LecExample
+Type: Package
+Title: A cute little package
+Version: 0.1.0
+Author: Yifan Lu
+Maintainer: Yifan Lu <pplyfpp@gmail.com>
+Description: We have hello() and diamond_plot() in this package
+Encoding: UTF-8
+LazyData: true
+RoxyNote: 7.2.3
+Depends: ggplot2
+RoxygenNote: 7.2.3
